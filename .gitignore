@@ -49,4 +49,8 @@ Thumbs.db
 *.sln
 *.vsconfig
 *.metaproj
+
+#Head
+*.cache
+
 *.cache
